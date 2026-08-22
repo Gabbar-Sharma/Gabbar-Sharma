@@ -74,15 +74,6 @@ Hi, I'm **Gabbar Sharma**, a passionate Frontend Developer with expertise in bui
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabbar-Sharma&show_icons=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-Sharma&layout=compact" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabbar-Sharma" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <p align="center"><i>Thanks for visiting my profile — always open to feedback, collaboration, and opportunities! 🚀</i></p>
